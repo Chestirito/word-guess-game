@@ -1,3 +1,6 @@
+body {
+    background-image: url("../images/backg6.jpg");
+}
 .container .myImg{
     max-width: 40%;
     height: auto;
@@ -11,17 +14,26 @@
     width: 90%;
     margin: 0 auto;
 }
-.line{
+#gWord .line{
     min-width: 30px;
     border-bottom: solid black 2px;
     vertical-align: bottom;
     height: 35px;
 }
-span{
+#gWord span{
     display: inline-block;
     min-width: 10px;
 }
 #gWord{
     min-height: 50px;
+}
+.contbody{
+    border: solid rgb(48, 4, 4) 5px;
+    padding: 0 15px;
+    background-color: rgb(255, 248, 242, 0.8);
+    
+}
+.border1{
+    border: solid rgb(48, 4, 4) 1px;
 }
 
