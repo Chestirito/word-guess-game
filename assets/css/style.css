@@ -1,0 +1,27 @@
+.container .myImg{
+    max-width: 40%;
+    height: auto;
+}
+.titleImg{
+    width: 100%;
+    height: auto;
+}
+.wrap{
+    max-width: 960px;
+    width: 90%;
+    margin: 0 auto;
+}
+.line{
+    min-width: 30px;
+    border-bottom: solid black 2px;
+    vertical-align: bottom;
+    height: 35px;
+}
+span{
+    display: inline-block;
+    min-width: 10px;
+}
+#gWord{
+    min-height: 50px;
+}
+
