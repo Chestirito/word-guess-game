@@ -1,8 +1,12 @@
-# word-guess-game
+# Word Guess Game
+Guess the anime title by inputing letters with keyboard
 
-Game is fully functional
+# How To Play
+- Use a keyboard to input letters to make a guess
 
-I did not make a big list of possible words, so the chance of getting repeated words is high.
+# Overview
+- Game is fully functional
+- List of words is not extensive, chances of getting repeated words is high
 
-For easy testing just inspect the lines and check the html, the tag span has a class that contain the letter that should go there.
+For easy testing, inspect the lines and check the html, the tag span has a class that contain the letter that should go there.
 
